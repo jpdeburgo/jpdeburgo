@@ -22,4 +22,10 @@ Here are some ideas to get you started:
 	•	Backend: Python, Java, NodeJS, GraphQL, Firebase
 	•	DevOps: Docker, Azure, Terraform, AWS
 
+Here are some examples of my contributions to open-source and personal projects:
+https://github.com/jpdeburgo/Software-Engineer-I
+https://github.com/backstage/backstage/pull/14584
+https://github.com/backstage/backstage/pull/16212
+
+
 🌟 I’m always excited to collaborate on projects that make an impact, and I’m passionate about leveraging technology to create meaningful solutions. Check out my repositories below, and feel free to connect for open-source collaboration or to discuss tech!
